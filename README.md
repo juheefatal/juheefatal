@@ -1,3 +1,18 @@
+## self-study
+
+## machine learning
+  * 머신러닝 기본 
+  * 해당 저장소로 [이동](https://github.com/juheefatal/ML_LIB_CLASS)
+  
+## C programming
+  * C언어 기본
+  * 해당 저장소로 [이동]
+  
+## C++ programming
+  * C++ 기본
+  * 해당 저장소로 [이동]
+
+
 ### Hi there 👋
 
 <!--
