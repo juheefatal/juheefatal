@@ -6,7 +6,7 @@
   
 ## C programming
   * C언어 기본
-  * 해당 저장소로 [이동]
+  * 해당 저장소로 [이동](https://github.com/juheefatal/C_programming)
   
 ## C++ programming
   * C++ 기본
