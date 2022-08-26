@@ -12,10 +12,9 @@
   * C++ 기본
   * 해당 저장소로 [이동]
   
-## 오늘의 공부기록
-  * 해당 저장소로 [이동]
-
-### Hi there 👋
+## dataStructure
+  * dataStructure 기본
+  * 해당 저장소로 [이동](https://github.com/juheefatal/DataStructure)
 
 <!--
 **juheefatal/juheefatal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
