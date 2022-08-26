@@ -4,6 +4,10 @@
   * 머신러닝 기본 
   * 해당 저장소로 [이동](https://github.com/juheefatal/ML_LIB_CLASS)
   
+## DataAnalysis
+  * self-DataAnalysis
+  * 해당 저장소로 [이동](https://github.com/juheefatal/MyDataAnalysis)
+
 ## C programming
   * C언어 기본
   * 해당 저장소로 [이동](https://github.com/juheefatal/Cprogramming)
