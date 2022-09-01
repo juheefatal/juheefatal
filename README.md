@@ -18,7 +18,7 @@
   
 ## dataStructure
   * dataStructure 기본
-  * 해당 저장소로 [이동](https://github.com/juheefatal/DataStructure)
+  * 해당 저장소로 [이동](https://github.com/juheefatal/dataStructure)
 
 <!--
 **juheefatal/juheefatal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
