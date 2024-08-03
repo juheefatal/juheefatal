@@ -1,4 +1,6 @@
 ## self-study
+  * toy project
+  * wep page to look up info
 
 ## machine learning
   * 머신러닝 기본 
